@@ -8,7 +8,7 @@ body{
 }
 
 .header{
-    background-image: url(./banner.jpg);
+    background-image: url(image/banner.jpg);
     background-position: center;
     background-size: max( 1200px, 100vw);
     background-repeat: no-repeat;
